@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on anomalues relaxation
+- 🔭 I’m currently working on anomalous relaxation
 - 🌱 I’m currently learning physics
 - 👯 I’m looking to collaborate on simulations
 - 🤔 I’m looking for help with efficiency
